@@ -27,8 +27,6 @@ Silicon Zeroes
 
 Move Code Lines — очевидно
 
-A=B — отличная игра про альтернативную систему вычислений (алгорифмы Маркова)
-
 Ну и всякие битвы, типа corewars, screeps и battlesnake, программировать агентов, которые потом выступают на арене"
 
 Дополнения:
@@ -37,11 +35,29 @@ BitBurner (https://store.steampowered.com/app/1812820/Bitburner/) - кликер
 
 (если вы знаете ещё игры на информатику для школьников, присылайте. я знаю LightBot, CargoBot, Turing Complete / NandGame, Shenzhen I/O и вот её)
 
-Human Resource Machine
 
-https://codepip.com/
+
+
 
 
 https://chatgpt.com/share/68e651ab-980c-8005-b547-172de22e7fd7
 
 https://chatgpt.com/share/68e651bc-a8e8-8005-a144-c21e78b116e7
+
+# Front-end
+
+- https://codepip.com/: Flexbox Froggy etc.
+
+# Assembly
+
+- Human Resource Machine
+
+# Computer architecture
+
+# SQL
+
+https://mystery.knightlab.com/
+
+# Alternative models of computation
+
+- [A=B](https://store.steampowered.com/app/1720850/AB/) - Markov algorithms. What can you achieve with a set of string replacements
