@@ -61,3 +61,9 @@ https://mystery.knightlab.com/
 # Alternative models of computation
 
 - [A=B](https://store.steampowered.com/app/1720850/AB/) - Markov algorithms. What can you achieve with a set of string replacements
+
+
+
+# CS Unplugged
+
+https://classic.csunplugged.org/books/
