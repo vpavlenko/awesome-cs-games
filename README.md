@@ -47,6 +47,7 @@ https://chatgpt.com/share/68e651bc-a8e8-8005-a144-c21e78b116e7
 # Front-end
 
 - https://codepip.com/: Flexbox Froggy etc.
+  - deep coverage of APIs with details useless to students, shallow exercises. no algorithmic thinking, just showcasing of API
 
 # Assembly
 
