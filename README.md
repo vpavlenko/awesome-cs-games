@@ -58,8 +58,7 @@ All these games are almost identical in content. They follow the https://www.nan
 # Assembly
 
 - Human Resource Machine
-
-# Computer architecture
+- 7 billion humans - goes beyond assembly
 
 # SQL
 
