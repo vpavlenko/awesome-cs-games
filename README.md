@@ -45,6 +45,10 @@ All these games are almost identical in content. They follow the https://www.nan
 - https://codepip.com/: Flexbox Froggy etc.
   - deep coverage of APIs with details useless to students, shallow exercises. no algorithmic thinking, just showcasing of API
 
+# Coding
+
+- The Farmer was Replaced
+
 # Assembly
 
 - Human Resource Machine
