@@ -72,3 +72,7 @@ https://mystery.knightlab.com/
 - https://classic.csunplugged.org/books/
 - Bebras
 
+# Weird but maybe related
+
+- Octopticom
+
