@@ -2,8 +2,6 @@
 
 Вообще игры от Zachtronics все по одной схеме построены, можно ещё посмотреть Last Call BBS, Exapunks или Kaizen, там всегда будет что-то от прогрммирования
 
-MHRD - hardware design, фактически,  первая часть курса nand2tetris — логические гейты + ALU, плюс-минус аналог NandGame
-
 Baba Is You — топ паззл. Двигаешь блоки в сокобане, составляя фразы, которые становятся правилами игры
 
 Elevator saga
@@ -44,6 +42,14 @@ https://chatgpt.com/share/68e651ab-980c-8005-b547-172de22e7fd7
 
 https://chatgpt.com/share/68e651bc-a8e8-8005-a144-c21e78b116e7
 
+# Nand2Tetris
+
+All these games are almost identical in content. They follow the https://www.nand2tetris.org/ course.
+
+- https://nandgame.com/
+- https://store.steampowered.com/app/576030/MHRD/
+- https://store.steampowered.com/app/1444480/Turing_Complete/
+
 # Front-end
 
 - https://codepip.com/: Flexbox Froggy etc.
@@ -67,7 +73,7 @@ https://mystery.knightlab.com/
 
 # CS Unplugged
 
-https://classic.csunplugged.org/books/
+- https://classic.csunplugged.org/books/
 
 
 # Bebras
