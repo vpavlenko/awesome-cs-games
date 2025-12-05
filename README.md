@@ -10,6 +10,8 @@ Manufactoria and Silicon Zeroes
 
 Move Code Lines — очевидно
 
+https://github.com/readyready15728/awesome-programming-games?tab=readme-ov-file
+
 # Searches
 - https://chatgpt.com/share/68e651ab-980c-8005-b547-172de22e7fd7
 - https://chatgpt.com/share/68e651bc-a8e8-8005-a144-c21e78b116e7
