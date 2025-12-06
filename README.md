@@ -1,24 +1,8 @@
-# TODO: sort
+I'm developing https://chessnawk.vercel.app/ to teach CS to my middle school students. 
 
-Deadlock empire
+I digest a lot of CS-related games and steal best practices while tuning the learning experience.
 
-Untrusted - пишешь на JS решение для "робота в лабиринте"
-
-Recursed, Patrick's Parabox — учат думать про рекурсию, корутины, identity/equality и mutable state
-
-Manufactoria and Silicon Zeroes
-
-Move Code Lines — очевидно
-
-https://github.com/readyready15728/awesome-programming-games?tab=readme-ov-file
-
-# Searches
-- https://chatgpt.com/share/68e651ab-980c-8005-b547-172de22e7fd7
-- https://chatgpt.com/share/68e651bc-a8e8-8005-a144-c21e78b116e7
-- https://thinkygames.com/games/?query=programming#game-search
-- https://chatgpt.com/share/68f0bd19-f684-8005-925c-6947a1ebe4fa
-
-Watch out for Ada Lovelace Day sale on Steam (annual)
+- [Another list that's bigger](https://github.com/readyready15728/awesome-programming-games)
 
 # Tile languages
 
@@ -83,3 +67,25 @@ https://mystery.knightlab.com/
 
 - Octopticom
 
+
+# TODO: sort
+
+Deadlock empire
+
+Untrusted - пишешь на JS решение для "робота в лабиринте"
+
+Recursed, Patrick's Parabox — учат думать про рекурсию, корутины, identity/equality и mutable state
+
+Manufactoria and Silicon Zeroes
+
+Move Code Lines — очевидно
+
+https://github.com/readyready15728/awesome-programming-games?tab=readme-ov-file
+
+# Searches
+- https://chatgpt.com/share/68e651ab-980c-8005-b547-172de22e7fd7
+- https://chatgpt.com/share/68e651bc-a8e8-8005-a144-c21e78b116e7
+- https://thinkygames.com/games/?query=programming#game-search
+- https://chatgpt.com/share/68f0bd19-f684-8005-925c-6947a1ebe4fa
+
+Watch out for Ada Lovelace Day sale on Steam (annual)
