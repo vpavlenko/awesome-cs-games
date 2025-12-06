@@ -38,6 +38,11 @@ Watch out for Ada Lovelace Day sale on Steam (annual)
   - Else Heart.Break()
 - Factorio, Shapez and alike
 
+# Logic gates
+
+- https://plays.org/circuitgates/
+- https://kpolyakov.spb.ru/prog/logic.htm
+
 # Nand2Tetris
 
 All these games are almost identical in content. They follow the https://www.nand2tetris.org/ course.
