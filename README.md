@@ -57,6 +57,7 @@ https://mystery.knightlab.com/
 
 - [A=B](https://store.steampowered.com/app/1720850/AB/) - Markov algorithms. What can you achieve with a set of string replacements
 - [Lists and Lists](https://eblong.com/zarf/zweb/lists/) on Lisp
+- https://store.steampowered.com/app/933970/Brainfuck/
 
 # Not really computer games, but other CS classroom activities
 
