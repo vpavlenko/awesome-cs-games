@@ -42,7 +42,7 @@ All these games are almost identical in content. They follow the https://www.nan
 
 # Coding
 
-- The Farmer was Replaced
+- The Farmer was Replaced - a very boring and slow clicker
 
 # Assembly
 
