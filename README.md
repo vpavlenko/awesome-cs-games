@@ -34,6 +34,7 @@ All these games are almost identical in content. They follow the https://www.nan
 - https://nandgame.com/
 - https://store.steampowered.com/app/576030/MHRD/
 - https://store.steampowered.com/app/1444480/Turing_Complete/
+- https://jaso1024.com/mvidia/
 
 # Front-end
 
